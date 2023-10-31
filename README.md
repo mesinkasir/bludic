@@ -1,6 +1,6 @@
 # BLUDIC PROJECT
 
-Built all in one website and mobile app UI with bludit ionic.
+Built all in one website and mobile app UI with bludit ionic BLUDIC Project.
 
 A project present by [https://www.fiverr.com/creativitas/](https://www.fiverr.com/creativitas/)
 
