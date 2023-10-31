@@ -36,7 +36,7 @@ Bludic Home [https://bludit.axcora.com/bludic/](https://bludit.axcora.com/bludic
 
 ### Installation on bludit project
 
-+ download source code - and upload on your project/bl-themes
++ Download source code - and upload on your project/bl-themes
 + Logon on your admin panel - click on themes and activate bludic template.
 
 
