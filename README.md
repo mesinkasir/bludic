@@ -45,7 +45,7 @@ Bludic Home [https://bludit.axcora.com/bludic/](https://bludit.axcora.com/bludic
 
 ### Install with full package
 
-+ For complete installation package set you can [download in here →](creativitaz.gumroad.com/l/bludicfree)
++ For complete installation package set you can [download in here →](https://creativitaz.gumroad.com/l/bludicfree)
 + Upload and extract source code file on your host
 + Visit your web and run installation
 
