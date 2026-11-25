@@ -2,6 +2,12 @@
 
 Built all in one website and mobile app UI with bludit ionic BLUDIC Project.
 
+Download New Version: https://creativitaz.gumroad.com/l/bludicfree
+
+Explore all projects: https://hockeycomputindo.com/themes/bludit
+
+Official: https:///bludit.axcora.com
+
 A project present by [https://www.fiverr.com/creativitas/](https://www.fiverr.com/creativitas/)
 
 ![Built all in one website and mobile app UI with bludit ionic.](screenshot.webp)
